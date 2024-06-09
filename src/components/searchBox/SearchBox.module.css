@@ -5,9 +5,9 @@
 }
 .input {
   width: 275px;
-  height: 35px;
+  height: 38px;
   border: 1px solid rgb(203, 207, 202);
-  border-radius: 5px;
+  border-radius: 8px;
 }
 .container {
   margin-top: 0;
